@@ -1,0 +1,6 @@
+regex
+streamlit==0.61.0
+http://download.pytorch.org/whl/cpu/torch-0.4.1-cp36-cp36m-linux_x86_64.whl
+transformers
+google-cloud-datastore
+google-cloud-ndb
